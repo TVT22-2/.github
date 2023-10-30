@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-#Team Members
+###Team Members
 
 > - MiroHann | Miro Hannikainen
 > - AatuMett | Aatu Mettovaara
