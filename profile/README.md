@@ -7,7 +7,7 @@
 > - IsakMakimartti | Isak Mäkimartti
 > - NoelVahajylkka | Noel Vähäjylkkä
 
-Suunnitteludokumentit löytyy repositorystä .github/files
+Suunnitteludokumentit löytyy repositorystä .github
 <!--
 
 **Here are some ideas to get you started:**
