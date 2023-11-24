@@ -1,5 +1,5 @@
 # Suunnittelodokumentteja
 
-[REST-suunnitelma](https://documenter.getpostman.com/view/25573759/2s9YeABa7q)
+[REST-suunnitelma]https://documenter.getpostman.com/view/30466073/2s9YeD7Cme
 
 Loput dokumentit löytyvät files - kansiosta.
