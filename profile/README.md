@@ -7,8 +7,8 @@
 > - IsakMakimartti | Isak Mäkimartti
 > - NoelVahajylkka | Noel Vähäjylkkä
 
-Suunnitteludokumentit löytyy repositorystä .github
-Projektin muut tiedostot löytyvät repositorystä .github.io
+>Suunnitteludokumentit löytyy repositorystä .github
+>Projektin muut tiedostot löytyvät repositorystä .github.io
 <!--
 
 **Here are some ideas to get you started:**
