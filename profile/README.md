@@ -8,6 +8,7 @@
 > - NoelVahajylkka | Noel Vähäjylkkä
 
 >Suunnitteludokumentit löytyy repositorystä .github
+
 >Projektin muut tiedostot löytyvät repositorystä .github.io
 <!--
 
